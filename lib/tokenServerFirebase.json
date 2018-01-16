@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cupo-escolar",
+  "private_key_id": "bc2dde0ef630ef7838fae473e9a6e7e9c2f633cd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCdORtiU017EiD+\ni+5/zZj0ox6Q81M3f5wruHoxaRCSEgvxs/Q34fN38byLkC+qOnNCr/zpezaiu/It\nl1fFohmtYoDxFHt9SFujytCZZA4YVVuqz9Lp1bvPHXs3fZNUcIx8EiuWjERKmG7x\ng2bMb7Yw24x5Eyw1rQZUmdT3MGXHR92bxm/a3Jdm/E4p7cV0Y55SQH9m7JLX3wfz\nk9l3nEp7lXbuWDepocwGALuSKN+7MdUCZoS6skGQZ63dnekVq3SEchP4Gn/W6k3t\nP2JnJ00RbjUZ7eV1o7ulF8EWwxBAV/CW+jHbFN+LbOyjQJXFb7J+BttweYB2JtDy\nPOpbJ0XnAgMBAAECggEAQ0ppU4SG0WlZcMjQS6fh0rasAur5z3OREk9TESnAG1yY\n+xqDqJVPAKOYiH0uQWPh6AVtsDp5kF3zkZrISMCPz9ssh8I19lGNU0WfUT93HugN\no0ZupYFCcCtUjNP0xjujjQiz2ivvoKOsPDb6vP4FEtUswrc3gUOsRXJPqXpv3UHT\njq5t/2hg2Nv6+utsOWrvC0sHYuUl/0U4Clk/YexlF0o/UgVw7KaLh0d/7TW+IV+G\nee/IY0h8RvbeMXdQ7g+eXfvPn4GbY1iHaO/m7LPO5mZBSsXUNHxXbmdmeNMSti6s\nUnwldHIZ01ifYCAxlAR6fdKq/yoYluhPvXYWNZQvpQKBgQDRU8lTigvt90rMdhTf\n3eynaXeTbnCKi24efvnJqmWrpbop9ZO9I2AKntRI6TxyB5sOnj5GRUTHd/15MWCS\nbkMjYcVKQsEQUpkKh80VHmPY80eb522eWAuOxfpdcCp3XwzKdjtFoiH9V4or1Zer\nQVDYt6+rU8X2QJsn55k4ZxAyjQKBgQDAR0I5w7i+MoqWU0Tn3Jx68GCrjg/huanD\nlozy9tQkmqOucVRAmv0NbPgFqXzkbhQTvZVBUb91CPnG22bgCiPSUGvIKJTNJM6a\nT3PrKEZZHU4dif90Tb8g/tTqQ2gNRCjqIJ0eL5RlkGdgRuFc7UAub6F1UlMU8JuV\nyUetjrT3QwKBgQC6eii9ChqsiIOS95KLCDm9vf/vUBBj6+hStI0zsV/XdNEOdh6B\n/RSfAXVd6qGVd98TO7eAhE7MX8FoCKveZunaiEvoZuV09BAwSGBTcvpCGB/v7FBE\nIm1RaF8shDLgmsVbS85rrw8WkLifai0uPAaYubJ+LygIwu81smVV0MKmNQKBgBBP\n+1ZbPHkmYIuQVPA2zy++5PSpAL/tuHFXfG3Acw8H74sFIli4zW8uJ3yTfH0Eub9S\n/i6keNG9CTPNuVSYh6F4ISzCBJ3C2aRNyU/SAuXcjpwC8SE011o9RGL7hQBbH/18\n9tdwwe476glI+iWgGynVXqVNbq8AGrMCeIpI6SFxAoGADj9lL5vx3GP8OU8keO7k\nqQ5WEvb/V8tQfH5T9d1zXqCpW7MWwWu9aUr4NLV1fZjVq6s9QWkcL/sVWmtgHMSg\nTGxgnSlIYhmBIcuLY8aiJBcGQvyhTWhYBZIs6+8bOSb4uGOdfo94pA1bFQbI6h7E\nkmZ48DqUGBkyl7p+50aZsME=\n-----END PRIVATE KEY-----\n",
+  "client_email": "server@cupo-escolar.iam.gserviceaccount.com",
+  "client_id": "101611902913275822677",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/server%40cupo-escolar.iam.gserviceaccount.com"
+}

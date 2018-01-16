@@ -1,0 +1,35 @@
+{
+  "name": "backend-cupoescolarapp",
+  "version": "1.0.0",
+  "description": "Backend de CupoEscolarApp",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "lintFix": "standard --fix",
+    "test": "npm run lint && ava",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jestrada-co/CupoEscolarApp.git"
+  },
+  "author": "Jorge Estrada - co.jestrada@gmail.com - (http://jestrada.co)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jestrada-co/CupoEscolarApp/issues"
+  },
+  "homepage": "https://github.com/jestrada-co/CupoEscolarApp#readme",
+  "devDependencies": {
+    "ava": "^0.22.0",
+    "nodemon": "^1.12.1",
+    "standard": "^10.0.3"
+  },
+  "dependencies": {
+    "@google/maps": "^0.4.5",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "co": "^4.6.0",
+    "express": "^4.16.2",
+    "firebase-admin": "^5.4.3"
+  }
+}
